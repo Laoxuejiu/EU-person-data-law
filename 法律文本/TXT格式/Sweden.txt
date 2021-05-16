@@ -1,0 +1,131 @@
+Act with Supplementary Provisions to the EU General Data Protection
+Regulation (SFS 2018:218)
+Published April 24, 2018
+Issued on April 19, 2018
+By decision of the Swedish Parliament, the following is enacted.Chapter 1 Introductory provisions
+Section 1
+This Act supplements Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), hereinafter referred to as the EU General Data Protection Regulation. The terms and expressions in this Act have the same meaning as in the EU General Data Protection Regulation.
+Extended application of the provisions of the EU General Data Protection
+Regulation
+Section 2
+The provisions of the EU General Data Protection Regulation, in the original version, and this Act also apply to the processing of personal data as part of activities that are not covered by Union law, and activities that are covered by Part V, Chapter 2 of the Treaty on European Union.
+Section 3
+The provisions under Section 2 do not apply to activities covered by 1. the Act on the Processing of Personal Data for the Intelligence 2. Activities of the Swedish Defense and Military Security Service (2007:258), 3. the Act on the Processing of Personal Data in the National Defence Radio Establishment’s Defence Intelligence and Development Activities (2007:259), or 3. Chapter 6 of the Police Data Act (2010:361).
+Section 4
+Articles 33 and 34 of the EU General Data Protection Regulation do not apply to personal data incidents reportable under the Protective Security Act (1996:627), or to provisions issued in connection with that Act.
+Territorial application of the Act
+Section 5
+This Act applies to the processing of personal data within the framework of activities conducted at the business premises of data controllers or data processors in Sweden. The Act also applies to the processing of personal data by data controllers that 1 Prop. 2017/18:105, bet. 2017/18:KU23, rskr. 2017/18:224. are not established in Sweden, but in a place where Swedish law is applicable according to international law. The Act also applies to the processing of personal data by data controllers or data processors who are only established in third countries if the processed data pertains to data subjects who are located in Sweden and relates to 1. offering goods or services to such data subjects, or 2. monitoring their actions in Sweden.
+The provision in Chapter 2, Section 4 applies to the processing of personal data pertaining to children living in Sweden, regardless of where the data controllers or data processors are established.
+Conflicting provisions under other regulations
+Section 6
+If another law or regulation contains provisions that conflict with this Act, the provisions under the other law or regulation shall take precedence. Relationship to freedom of the press and freedom of expression
+Section 7
+The EU General Data Protection Regulation and this Act shall not be applicable to the extent that they conflict with the Freedom of the Press Act or the Fundamental Law on Freedom of Expression. Articles 5–30 and 35–50 of the EU General Data Protection Regulation and Chapters 2–5 of this Act shall not apply to the processing of personal data for the purposes of journalism or academic, artistic or literary expression.
+Confidentiality obligation of data protection officers
+Section 8
+A person acting as a data protection officer pursuant to Article 37 of the EU General Data Protection Regulation may not disclose data that he or she has become privy to in the course of performing his or her duties. With regard to public sector operations, the Public Access to Information and Secrecy Act (2009:400) shall apply in place of the provisions in paragraph 1.
+Chapter 2 Legal basis for processing personal data
+Compliance with a legal obligation
+Section 1
+Personal data may be processed pursuant to Article 6.1 c of the EU General Data Protection Regulation, if the processing is necessary in order for the data controller to comply with a legal obligation arising from a law or other regulation, collective agreement or decisions issued under a law or other regulation.
+Public interest or exercise of official authority
+Section 2
+Personal data may be processed pursuant to Article 6.1 e of the EU General Data Protection Regulation, if the processing is necessary
+1. to perform a task of public interest arising from a law or other regulation, collective agreement or decisions issued under a law or other regulation, or
+2. as part of the data controller's exercise of official authority under a law or other regulation.
+Individual archives
+Section 3
+The government, or an authority appointed by the government, may issue Regulations authorizing data controllers not covered by regulations on archiving to process personal data for archiving purposes in the public interest. The authority appointed by the government may, in individual cases, decide that such data controllers may process personal data for archiving purposes in the public interest. A decision may be combined with conditions.
+Consent to use children's personal data
+Section 4
+When information society services are offered directly to a child living in Sweden, the child’s personal data may be processed with the child’s consent, if the child is at least 13 years old. If the child is under 13 years old, the data may only be processed with the consent of the child’s parent or legal guardian.
+Chapter 3 Processing of certain categories of personal data Sensitive
+personal data
+Section 1
+In this Act, “sensitive personal data” means data referred to under Article 9.1 of the EU General Data Protection Regulation. Labor law, social security and social protection
+Section 2
+Sensitive personal data may be processed pursuant to Article 9.2 b of the EU General Data Protection Regulation if such processing is necessary in order for the data controller or the data subject to fulfill their obligations and exercise their specific rights under labor law and within the areas of social security and social protection.
+Personal data processed pursuant to paragraph 1 may only be provided to third parties if the data controller is obliged to do so under labor law or within the areas of social security and social protection, or with the data subject’s express consent.
+Important public interest
+Section 3
+Sensitive personal data may be processed by an authority on the basis of Article 9.2 g of the EU General Data Protection Regulation 1. if the data has been supplied to the authority and processing of the data is required under law, 2. if the processing is necessary for the management of a case, or 3. in other cases, if the processing is necessary for reasons of important public interest and does not entail violation of the data subject’s personal privacy. In cases where data is processed solely on the basis of paragraph 1 above, searches that aim to produce a selection of persons based on sensitive personal data are prohibited. In applying paragraph 1, parties other than authorities shall be regarded as equivalent to authorities, to the extent that the provisions regarding public documents and confidentiality under the Freedom of the Press Act and the Public Access to Information and Secrecy Act (2009:400) apply to the party’s operations.
+Section 4
+The government may issue further regulations regarding such processing of sensitive personal data as is necessary on the grounds of important public interest.
+Health care and social care
+Section 5
+Sensitive personal data may be processed on the basis of Article 9.2 h of the EU General Data Protection Regulation, if such processing is necessary for the purposes of 1. preventative or occupational medicine, 2. assessing the working capacity of the employee, 3. medical diagnosis, 4. the provision of health care or treatment, 5. social care, or 6. management of health or social care systems and services.
+Data processing pursuant to paragraph 1 is only permitted if the confidentiality provisions under Article 9.3 of the EU General Data Protection Regulation are complied with. such processing is necessary in order for the data controller to comply with regulations regarding archiving.
+The government, or an authority appointed by the government, may issue regulations authorizing data controllers not covered by regulations on archiving to process sensitive personal data for the purposes of archiving in the public interest.
+The authority appointed by the government may, in individual cases, decide that such data controllers are authorized to process personal data for archiving purposes in the public interest. A decision may be combined with conditions.
+Statistics
+Archiving
+Section 6
+Sensitive personal data may be processed for the purposes of archiving in the public interest on the basis of Article 9.2 j of the EU General Data Protection Regulation, if such processing is necessary in order for the data controller to comply with regulations regarding archiving.
+The government, or an authority appointed by the government, may issue regulations authorizing data controllers not covered by regulations on archiving to process sensitive personal data for the purposes of archiving in the public interest.
+The authority appointed by the government may, in individual cases, decide that such data controllers are authorized to process personal data for archiving purposes in the public interest. A decision may be combined with conditions.
+Statistics
+Section 7
+Sensitive personal data may be processed on the basis of Article 9.2 j of the EU General Data Protection Regulation, if such processing is necessary for statistical purposes and the public interest in the statistics project for which the processing takes place clearly outweighs the risk of undue infringement Personal data regarding violations of law
+Section 8
+The personal data referred to in Article 10 of the EU General Data Protection Regulation may be processed by authorities. Parties other than authorities may also process such data, if the processing is necessary to enable the data controller to comply with regulations regarding archiving.
+Section 9
+The government, or an authority appointed by the government, may issue further regulations that determine in what cases parties other than authorities are authorized to process the personal data referred to under Article 10 of the EU General Data Protection Regulation. The authority appointed by the government may, in individual cases, determine that parties other than authorities are authorized to process such data. A decision may be combined with conditions.
+Personal identity numbers and coordination numbers
+Section 10
+Personal identity numbers and coordination numbers may only be processed without consent if such processing is clearly justified in light of the purpose of the processing, the importance of accurate identification, or on other significant grounds.
+Section 11
+The government may issue further regulations that determine in which cases the processing of personal identity numbers and coordination numbers is permitted.
+Chapter 4 Restrictions on processing
+Archiving
+Section 1
+Personal data that is processed solely for archiving purposes in the public interest may only be used for taking actions relating to the data subject if there are significant reasons for this with consideration to the data subject’s vital interests.
+The provisions in paragraph 1 do not prevent authorities from processing personal data contained in public documents. In applying paragraph 2, parties other than authorities shall be regarded as equivalent to authorities, to the extent that the provisions regarding public documents and confidentiality under the Freedom of the Press Act and the Public Access to Information and Secrecy Act (2009:400) apply to the party’s operations.
+Statistics
+Section 2
+Personal data processed solely for statistical purposes may only be used for taking actions relating to the data subject if there are significant reasons for this with consideration to the data subject’s vital interests.
+Chapter 5 Restrictions of certain rights and obligations Information and access to personal data
+Section 1
+Articles 13–15 of the EU General Data Protection Regulation on information and the right to access personal data do not apply to information that the data controller is forbidden from disclosing to the data subject under law or other regulations, or under decisions issued on the basis of law. If the data controller is not an authority, the exception in paragraph 1 also applies to the Public Access to Information and Secrecy Act (2009:400).
+Section 2
+Article 15 of the EU General Data Protection Regulation does not apply to personal data in running text that has not been given its final wording when the application was made, or that comprises an aide memoire or similar.
+The exception in paragraph 1 does not apply if the personal data 1. has been disclosed to a third party, 2. is only processed for archiving purposes in the public interest or for statistical purposes, or
+3. if the data has been processed for a longer period than one year and has not been given its final wording. 
+Authorization
+Section 3
+The government may issue further regulations regarding restrictions under Articles 23, 89.2 and 89.3 of the EU General Data Protection Regulation.
+Chapter 6 The supervisory authority's handling and decisions powers
+Section 1
+The supervisory authority’s powers pursuant to Articles 58.1, 58.2 and 58.3 of the EU General Data Protection Regulation apply to the monitoring of compliance with this Act and other regulations that supplement the EU General
+Data Protection Regulation.
+The provisions in paragraph 1 do not authorize the supervisory authority to levy sanctions for violations other than those referred to in Article 83 of the EU General Data Protection Regulation.
+Sanctions
+Section 2
+The supervisory authority may levy a sanction from an authority for violations referred to in Articles 83.4, 83.5 and 83.6 of the EU General Data Protection Regulation, in the original version. In such cases, Articles 83.1, 83.2 and 83.3 of the Regulation shall be applied.
+The sanction shall amount to a maximum of SEK 5,000,000 for violations referred to in Article 83.4 of the EU General Data Protection Regulation, and to a maximum of SEK 10,000,000 for violations referred to in Articles 83.5 and 83.6 of the Regulation.
+Section 3
+The supervisory authority may levy a sanction for violations of Article 10 of the EU General Data Protection Regulation, in the original version. In such cases, Articles 83.1, 83.2 and 83.3 of the Regulation shall be applied. The size of the sanction shall be determined on the basis of Article 83.5 of the Regulation.
+Section 4
+A sanction may not be issued if the person issued with the sanction has not had an opportunity to respond within five years from the date the violation arose. A sanction order shall be issued.
+Section 5
+The sanction shall be payable to the State.
+Section 6
+Payment of the sanction shall be made to an authority appointed by the government within 30 days after the sanction order becomes legally binding. If the sanction is not paid within the time period specified in paragraph 1, the authority shall have the unpaid charge collected. Provisions on the collection of sanctions can be found in the Debt Recovery (State Claims, etc.) Act (1993:891). A decision to have the sanction collected may be enforced pursuant to the Enforcement Code.
+Section 7
+The government may issue further regulations on sanctions on the basis of the EU General Data Protection Regulation and this Act.
+Chapter 7 Damages and appeals
+Damages
+Section 1
+The right to receive compensation from a data controller or data processor under Article 82 of the EU General Data Protection Regulation applies to violations of the provisions of this Act and of other regulations that supplement the EU General Data Protection Regulation.
+Appeal of decisions made by public authorities that are data controllers
+Section 2
+Decisions made on the basis of Articles 12.5 and 15–21 of the EU General Data Protection Regulation which have been issued by an authority that is a data controller may be appealed to a general administrative court. Leave to appeal is required when lodging appeals with an administrative court of appeal. The provisions of paragraph 1 do not apply to decisions made by the government, the Supreme Court or the Supreme Administrative Court.
+Appeal of decisions made by a supervisory authority
+Section 3
+Decisions made by a supervisory authority according to the EU General Data Protection Regulation and according to Chapter 6, Sections 2 and 3 of this Act may be appealed to a general administrative court. When a decision is appealed, the supervisory authority is the defendant in court.leave to appeal is required when lodging appeals with an administrative court of appeal.
+Appeal of certain other decisions
+Section 4
+Decisions according to Chapter 2, Section 3, paragraph 2, Chapter 3, Section 6, paragraph 3, and Chapter 3, Section 9, paragraph 2 of this Act may be appealed to a general administrative court. Leave to appeal is required when lodging appeals with an administrative court of appeal. Prohibition to appeal
+Section 5
+Any decisions made under the EU General Data Protection Regulation or under this Act, other than those referred to in Sections 2–4, may not be appealed. 1. This Act takes effect on May 25, 2018. 2. This Act repeals the Personal Data Act (1998:204). 3. In place of the provisions in Chapter 1, Section 2, the repealed Act shall continue to apply to activities of the Swedish Armed Forces, the National
+Defence Radio Establishment and the Swedish Defence Recruitment Agency that are not covered by Union law. 4. The repealed Act shall continue to apply to the processing of personal data referred to under Article 2.2 d of the EU General Data Protection Regulation, in the original version. 5. Moreover, the repealed Act shall continue to apply to the extent that other laws or regulations contain provisions that make reference to that Act. 6. The repealed Act shall continue to apply to appeals of decisions that were issued under that Act. 7. The provision in Section 49 of the repealed Act shall continue to apply to violations that arose before the Act came into force. 8. Decisions issued on the basis of Section 21, paragraph 4 of the repealed Act shall continue to apply.
